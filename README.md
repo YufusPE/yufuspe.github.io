@@ -1,1 +1,11 @@
-# yufuspe.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой сайт</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Привет, мир!</h1>
+    <p>Мой первый сайт на GitHub Pages работает!</p>
+</body>
+</html>
